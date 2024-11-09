@@ -1,0 +1,20 @@
+#pragma once
+
+#include <iostream>
+#include <string>
+#include <cstring>
+#include <fstream>
+
+#include <ProToolkit.h>
+#include <ProAssembly.h>
+#include <ProRefInfo.h>
+#include <ProMenu.h>
+#include <ProUICmd.h>
+#include <ProUtil.h>
+#include <ProSolid.h>
+#include <ProFeatType.h>
+#include <ProCopyGeom.h>
+#include <ProMdl.h>
+#include <ProModelitem.h>
+#include <ProTKRunTime.h>
+
